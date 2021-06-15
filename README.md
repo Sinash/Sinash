@@ -1,1 +1,1 @@
-### Hi there, I'm Sinash Shajahan 👋
+### Hi there 👋
