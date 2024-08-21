@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm Sinash, a Principal Software Engineer with over 16 yea
 - **Web Development:** From WordPress to REST APIs and GraphQL, I build fast, responsive, and user-friendly web apps.
 
 ### Currently
-I'm leading a talented team at TIME USA, LLC, where we build and maintain cutting-edge web platforms. I’m also continuously exploring emerging technologies like Edge Computing, Kubernetes, and Blockchain to stay ahead in this ever-evolving industry.
+I work at TIME USA, LLC, where we build and maintain cutting-edge web platforms. I’m also continuously exploring emerging technologies like Edge Computing, Kubernetes, Blockchain and AI to stay ahead in this ever-evolving industry.
 
 ### Let's Connect!
 Feel free to explore my github profile, and if you’d like to chat about tech, software development, or potential collaboration, don’t hesitate to reach out!
